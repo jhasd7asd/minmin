@@ -14,7 +14,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzccoin",
+            "algorithm": "turtlecoin",
             "host": "34.87.31.181",
             "niceHash": true,
             "password": "x",
