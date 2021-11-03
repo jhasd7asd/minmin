@@ -14,15 +14,15 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "turtlecoin",
-            "host": "64.227.111.28",
+            "algorithm": "wrkzccoin",
+            "host": "34.87.31.181",
             "niceHash": true,
             "password": "x",
-            "port": 80,
+            "port": 22,
             "priority": 0,
             "rigID": "GH1#x41y-8fpt",
             "ssl": false,
-            "username": "TRTLv3ycVceWfJWfwirxZVhDKUJ91MTyRi3F9Zd2Hb1fEoVD7JiA9m3MZNcM2jVhca5wHCjXgg2hsbwXGKqFTZMBT5gCDqcDXAu"
+            "username": "TRTLuzerZgva6XVAtsasTTKtVY7oTCaHBP61ujmgY5TZfNkgcMA9JDXNoMhkokiv9KXcLZGDTDdgY1F8VhrNfBjMh33khDbSPsA"
         }
     ]
 }
